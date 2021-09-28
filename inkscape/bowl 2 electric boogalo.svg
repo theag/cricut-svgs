@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="bowl 2 electric boogalo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-80.474896"
+     inkscape:cy="816.70243"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="897"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g930"
+       transform="translate(96.005952,-17.386905)">
+      <path
+         id="WALLS_CUT"
+         style="fill:#8680ff;fill-opacity:1;stroke-width:4.9299;stroke-linecap:round"
+         d="m 40.065253,-57.255936 c 0,39.99997 0,79.99994 0,119.99991 -39.999969,0 -79.999938,0 -119.999907,0 0,39.999966 0,79.999936 0,119.999906 39.999969,0 79.999938,0 119.999907,0 0,39.99997 0,79.99994 0,119.99991 40.000142,0 80.000287,0 120.000427,0 0,-39.99997 0,-79.99994 0,-119.99991 39.99997,0 79.99993,0 119.9999,0 0,-39.99997 0,-79.99994 0,-119.999906 -39.99997,0 -79.99993,0 -119.9999,0 0,-39.99997 0,-79.99994 0,-119.99991 -40.00014,0 -80.000285,0 -120.000427,0 z" />
+      <path
+         id="WALLS_SCORE"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 40.065253,62.743974 c 40,0 79.999997,0 119.999997,0 0,40.000006 0,79.999996 0,119.999996 -40,0 -79.999997,0 -119.999997,0 0,-40 0,-79.99999 0,-119.999996 z" />
+    </g>
+    <g
+       id="g941">
+      <path
+         id="GORE_CUT"
+         style="fill:#8680ff;fill-opacity:1;stroke-width:3.98481;stroke-linecap:round"
+         inkscape:transform-center-x="1.5624937e-06"
+         inkscape:transform-center-y="17.320497"
+         d="m -149.87509,163.92901 c -2.07636,7.72304 -4.15271,15.44609 -6.22907,23.16913 14.48903,22.80463 28.97807,45.60927 43.46711,68.41391 7.58731,4.11345 15.174611,8.22689 22.761916,12.34034 7.909766,-4.74338 15.819535,-9.48677 23.729302,-14.23015 14.867138,-21.79677 29.734274,-43.59355 44.601411,-65.39032 -2.776919,-8.10097 -5.553839,-16.20194 -8.330757,-24.30291 -39.99997,0 -79.999942,0 -119.999912,0 z" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -149.87509,163.92901 59.999956,103.92338 59.999956,-103.92338"
+         id="GORE_SCORE" />
+    </g>
+  </g>
+</svg>
