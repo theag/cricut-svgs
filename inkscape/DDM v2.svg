@@ -39,119 +39,93 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g4991">
+       id="g6437">
       <g
-         id="g4948">
-        <rect
-           style="opacity:0.98;fill:#a6682a;fill-opacity:1;stroke:none;stroke-width:0.558419;stroke-linejoin:round"
+         id="g6285">
+        <path
            id="rect846"
-           width="23"
-           height="23"
-           x="14.185073"
-           y="15.958209" />
-        <rect
-           style="opacity:0.98;fill:#a6682a;fill-opacity:1;stroke:none;stroke-width:0.558419;stroke-linejoin:round"
-           id="rect846-1"
-           width="23"
-           height="23"
-           x="37.185074"
-           y="15.958208" />
-        <rect
-           style="opacity:0.98;fill:#a6682a;fill-opacity:1;stroke:none;stroke-width:0.558419;stroke-linejoin:round"
+           style="opacity:0.98;fill:#a6682a;stroke-width:0.555384;stroke-linejoin:round"
+           d="m 15.50137,15.863986 h 22.875 v 22.875 H 15.501371 Z"
+           inkscape:label="main" />
+        <path
+           id="rect846-4"
+           style="opacity:0.98;fill:#a6682a;stroke-width:0.555384;stroke-linejoin:round"
+           d="m 38.37637,15.863986 h 22.875 v 22.875 H 38.376371 Z"
+           inkscape:label="main" />
+        <path
+           id="rect846-46"
+           style="opacity:0.98;fill:#a6682a;stroke-width:0.555384;stroke-linejoin:round"
+           d="m 61.251369,15.863986 h 22.875 v 22.875 H 61.25137 Z"
+           inkscape:label="main" />
+        <path
            id="rect846-0"
-           width="23"
-           height="23"
-           x="60.185074"
-           y="15.958208" />
-        <rect
-           style="opacity:0.98;fill:#a6682a;fill-opacity:1;stroke:none;stroke-width:0.558419;stroke-linejoin:round"
-           id="rect846-6"
-           width="23"
-           height="23"
-           x="37.185074"
-           y="38.95821" />
-        <rect
-           style="opacity:0.98;fill:#a6682a;fill-opacity:1;stroke:none;stroke-width:0.558419;stroke-linejoin:round"
-           id="rect846-61"
-           width="23"
-           height="23"
-           x="37.185074"
-           y="61.958214" />
-        <rect
-           style="opacity:0.98;fill:#a6682a;fill-opacity:1;stroke:none;stroke-width:0.558419;stroke-linejoin:round"
-           id="rect846-07"
-           width="23"
-           height="23"
-           x="37.185074"
-           y="84.958214" />
+           style="opacity:0.98;fill:#a6682a;stroke-width:0.555384;stroke-linejoin:round"
+           d="m 38.37637,38.738986 h 22.875 v 22.875 H 38.376371 Z"
+           inkscape:label="main" />
+        <path
+           id="rect846-8"
+           style="opacity:0.98;fill:#a6682a;stroke-width:0.555384;stroke-linejoin:round"
+           d="m 38.37637,61.613986 h 22.875 v 22.875 H 38.376371 Z"
+           inkscape:label="main" />
+        <path
+           id="rect846-5"
+           style="opacity:0.98;fill:#a6682a;stroke-width:0.555384;stroke-linejoin:round"
+           d="m 38.37637,84.488986 h 22.875 V 107.36399 H 38.376371 Z"
+           inkscape:label="main" />
       </g>
       <g
-         id="g4919">
-        <rect
-           style="opacity:0.98;fill:#6b2500;fill-opacity:1;stroke:none;stroke-width:1.35433;stroke-linejoin:round"
+         id="g6293">
+        <path
            id="rect3314"
-           width="17.040001"
-           height="17.040001"
-           x="17.165073"
-           y="18.93821" />
-        <rect
-           style="opacity:0.98;fill:#6b2500;fill-opacity:1;stroke:none;stroke-width:1.35433;stroke-linejoin:round"
+           style="opacity:0.98;fill:#6b2500;stroke-width:1.35433;stroke-linejoin:round"
+           inkscape:label="sticker"
+           d="M 18.41887,18.781486 H 35.458871 V 35.821487 H 18.41887 Z" />
+        <path
+           id="rect3314-7"
+           style="opacity:0.98;fill:#6b2500;stroke-width:1.35433;stroke-linejoin:round"
+           inkscape:label="sticker"
+           d="M 41.29387,18.781486 H 58.333871 V 35.821487 H 41.29387 Z" />
+        <path
+           id="rect3314-71"
+           style="opacity:0.98;fill:#6b2500;stroke-width:1.35433;stroke-linejoin:round"
+           inkscape:label="sticker"
+           d="M 64.168869,18.781486 H 81.20887 V 35.821487 H 64.168869 Z" />
+        <path
+           id="rect3314-8"
+           style="opacity:0.98;fill:#6b2500;stroke-width:1.35433;stroke-linejoin:round"
+           inkscape:label="sticker"
+           d="M 41.29387,41.656486 H 58.333871 V 58.696487 H 41.29387 Z" />
+        <path
            id="rect3314-0"
-           width="17.040001"
-           height="17.040001"
-           x="40.165073"
-           y="18.93821" />
-        <rect
-           style="opacity:0.98;fill:#6b2500;fill-opacity:1;stroke:none;stroke-width:1.35433;stroke-linejoin:round"
+           style="opacity:0.98;fill:#6b2500;stroke-width:1.35433;stroke-linejoin:round"
+           inkscape:label="sticker"
+           d="M 41.29387,64.531486 H 58.333871 V 81.571487 H 41.29387 Z" />
+        <path
            id="rect3314-3"
-           width="17.040001"
-           height="17.040001"
-           x="63.165073"
-           y="18.93821" />
-        <rect
-           style="opacity:0.98;fill:#6b2500;fill-opacity:1;stroke:none;stroke-width:1.35433;stroke-linejoin:round"
-           id="rect3314-06"
-           width="17.040001"
-           height="17.040001"
-           x="40.165073"
-           y="41.93821" />
-        <rect
-           style="opacity:0.98;fill:#6b2500;fill-opacity:1;stroke:none;stroke-width:1.35433;stroke-linejoin:round"
-           id="rect3314-4"
-           width="17.040001"
-           height="17.040001"
-           x="40.165073"
-           y="64.93821" />
-        <rect
-           style="opacity:0.98;fill:#6b2500;fill-opacity:1;stroke:none;stroke-width:1.35433;stroke-linejoin:round"
-           id="rect3314-9"
-           width="17.040001"
-           height="17.040001"
-           x="40.165073"
-           y="87.938217" />
+           style="opacity:0.98;fill:#6b2500;stroke-width:1.35433;stroke-linejoin:round"
+           inkscape:label="sticker"
+           d="M 41.29387,87.406486 H 58.333871 V 104.44649 H 41.29387 Z" />
       </g>
       <g
-         id="g4924">
+         id="g6417">
         <path
            style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-           d="M 37.185073,15.958209 V 38.95821 h 23.000001 v -23"
-           id="path3208" />
+           d="M 38.37637,15.863986 V 38.738987 H 61.251369 V 15.863986"
+           id="path6328" />
         <path
            style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-           d="M 37.185073,61.958211 H 60.185072"
-           id="path4791" />
+           d="M 61.251369,61.613986 H 38.37637"
+           id="path6330" />
         <path
            style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-           d="M 37.185073,84.958213 H 60.185072"
-           id="path4793" />
+           d="M 38.37637,84.488985 H 61.251369"
+           id="path6332" />
       </g>
     </g>
-    <rect
-       style="opacity:0.98;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.242791;stroke-linejoin:round"
+    <path
        id="rect846-9"
-       width="10"
-       height="10"
-       x="102.42388"
-       y="10.66418" />
+       style="opacity:0.98;stroke-width:0.242791;stroke-linejoin:round"
+       d="m 102.42388,10.66418 h 10 v 10 h -10 z"
+       inkscape:label="cm guide" />
   </g>
 </svg>
