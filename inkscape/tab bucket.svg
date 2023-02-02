@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="tab bucket.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-midpoints="true"
+     inkscape:zoom="0.59687149"
+     inkscape:cx="281.46762"
+     inkscape:cy="541.99271"
+     inkscape:window-width="1440"
+     inkscape:window-height="897"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect846"
+       style="opacity:0.98;fill:#00ffff;stroke-width:1.11866;stroke-linejoin:round"
+       d="M 755.63477,1110.0859 1057.9922,543.1543 841.22656,427.54883 H 538.86523 V 144.08398 H 293.19531 v 283.46485 l -302.3613256,10e-4 -23.0781254,37.03616 281.820311,528.42578 43.61819,1.4668 21.82131,37.79493 h 202.0293 l 21.82126,-37.79398 z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <path
+       id="path2349"
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0649999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 222.57462,113.12238 -79.99992,150 M 77.574623,113.12237 v 150 m -79.9999999,-150 79.9999999,150 h 64.999987 l 1e-5,-149.99999" />
+    <rect
+       style="opacity:0.98;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5060"
+       width="10"
+       height="10"
+       x="19.947762"
+       y="34.132835" />
+  </g>
+</svg>
