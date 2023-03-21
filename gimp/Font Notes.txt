@@ -1,0 +1,2 @@
+copperplate gothic bold 42 px
+times new roman bold 34 (offset by 25 pixels left and if below baseline than down 4 pixels)
