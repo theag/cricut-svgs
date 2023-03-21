@@ -1,2 +1,4 @@
 copperplate gothic bold 42 px
-times new roman bold 34 (offset by 25 pixels left and if below baseline than down 4 pixels)
+times new roman bold 34 (offset by 25 pixels left and if below baseline than down 4 pixels) U+2014 Em Dash Alt+0151
+
+text box offset left 8
