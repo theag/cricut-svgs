@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="mtg land.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8973437"
+     inkscape:cx="291.46011"
+     inkscape:cy="533.6408"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="317"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       d="m 64.895882,163.00716 c -0.800365,-0.047 -2.705365,-0.26848 -4.233334,-0.49209 -9.786789,-1.43219 -17.187692,-3.85822 -19.711459,-6.46145 -0.971377,-1.00196 -1.057236,-1.20735 -1.04498,-2.49978 0.01771,-1.86719 1.005697,-3.4904 4.57531,-7.51698 4.010433,-4.52383 5.155438,-6.14401 7.04318,-9.96607 1.73729,-3.51744 2.675538,-6.02066 5.305621,-14.15521 1.800782,-5.56961 3.658923,-9.63858 4.865013,-10.65344 2.248016,-1.89158 3.68521,-0.2673 7.281183,8.22903 3.150926,7.44479 5.594922,11.58627 8.714418,14.76703 1.049078,1.06969 2.043062,1.94488 2.20885,1.94488 0.648734,0 1.949513,-1.43897 3.52905,-3.90398 2.476992,-3.86557 3.527888,-4.82727 5.275008,-4.82727 2.541215,0 3.836538,1.61694 6.350614,7.9274 2.472553,6.20622 4.076645,8.68764 8.089134,12.51334 3.97586,3.79077 4.60155,5.3944 2.98857,7.65963 -1.81933,2.55501 -9.932896,5.52515 -18.217427,6.66888 -5.597253,0.77273 -16.64846,1.14053 -23.018751,0.76608 z"
+       id="path923" />
+  </g>
+</svg>
