@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2450.1 828" style="enable-background:new 0 0 2450.1 828;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FAA81A;}
+	.st1{fill:none;stroke:#E32128;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:#00B1AE;}
+</style>
+<path id="PocketFlap_Cut" class="st0" d="M2161.9,791.9h23.7c6.8,0,12.3-5.5,12.3-12.3v-299c0-7-5.7-12.7-12.7-12.7h-23.3v-36l0,0
+	c-52.3,0-94.8,42.4-94.8,94.8v206.5c0,52.3,42.4,94.8,94.8,94.8l0,0V791.9z"/>
+<line id="PocketFlap_Score" class="st1" x1="2161.9" y1="468" x2="2161.9" y2="792"/>
+<path id="Pocket_Cut" class="st0" d="M2432.1,457.6V432h18V36h-18V10.4c0-5.7-4.7-10.4-10.4-10.4h-195.5c-5.6,0-10.1,4.5-10.1,10.1
+	V36h-18v36h-23.7c-6.8,0-12.3,5.5-12.3,12.3v298.9c0,7,5.7,12.7,12.7,12.7h23.3v36h18v25.9c0,5.6,4.5,10.1,10.1,10.1h195.5
+	C2427.5,468,2432.1,463.3,2432.1,457.6z"/>
+<path id="Pocket_Score" class="st1" d="M2432.1,36h-216 M2432.1,432h-216 M2198.1,72v324"/>
+<rect id="HandleD_Cut" x="1977.2" class="st0" width="72" height="828"/>
+<rect id="HandleC_Cut" x="1864.8" class="st0" width="72" height="828"/>
+<rect id="HandleB_Cut" x="1752.5" class="st0" width="72" height="828"/>
+<rect id="HandleA_Cut" x="1640.1" class="st0" width="72" height="828"/>
+<path id="BuckleD_Cut" class="st2" d="M1959.2,36v91.9h108V36H1959.2z M2053.7,114.4h-81V49.5h81V114.4z"/>
+<path id="BuckleC_Cut" class="st2" d="M1846.8,36v91.9h108V36H1846.8z M1941.3,114.4h-81V49.5h81V114.4z"/>
+<path id="BuckleB_Cut" class="st2" d="M1734.5,36v91.9h108V36H1734.5z M1829,114.4h-81V49.5h81V114.4z"/>
+<path id="BuckleA_Cut" class="st2" d="M1622.1,36v91.9h108V36H1622.1z M1716.6,114.4h-81V49.5h81V114.4z"/>
+<path id="BackSides_Cut" class="st3" d="M1588.3,0l-35,377.8h-31.5v22c0,5.3-4.3,9.5-9.5,9.5H870.1c-5.3,0-9.5-4.3-9.5-9.5v-21.9
+	h-31.5L794.1,0H1588.3z M866.5,448.4h-24.4c-5.6,0-10.2,4.6-10.2,10.2v290.1c0,5.8,4.7,10.4,10.4,10.4h24.1v34.4H901v24.4
+	c0,5.6,4.5,10.1,10.1,10.1h162.7c5.5,0,10-4.5,10-10v-24.5h34.5v-34.4h24.2c5.7,0,10.4-4.6,10.4-10.4V458.5
+	c0-5.6-4.5-10.1-10.1-10.1h-24.4V414H866.5V448.4z M1264,448.4h-24.4c-5.6,0-10.2,4.6-10.2,10.2v290.1c0,5.8,4.7,10.4,10.4,10.4
+	h24.1v34.4h34.5v24.4c0,5.6,4.5,10.1,10.1,10.1h162.7c5.5,0,10-4.5,10-10v-24.5h34.5v-34.4h24.2c5.7,0,10.4-4.6,10.4-10.4V458.5
+	c0-5.6-4.5-10.1-10.1-10.1h-24.4V414H1264V448.4z"/>
+<path id="BackSides_Score" class="st1" d="M860.6,377.8h661.2 M1118.4,759.1V448.4 M866.5,759.1V448.4 M901,793.5h182.8
+	 M1515.9,759.1V448.4 M1264,759.1V448.4 M1298.5,793.5h182.8"/>
+<path id="FrontBottom_Cut" class="st3" d="M759.2,710.1H35V458.2h724.2V710.1z M0,0l35,377.8h31.5v21.9c0,5.3,4.3,9.5,9.5,9.5h642.1
+	c5.3,0,9.5-4.3,9.5-9.5v-22h31.5L794.1,0H0z"/>
+<line id="FrontBottom_Score" class="st1" x1="66.5" y1="377.8" x2="727.7" y2="377.8"/>
+</svg>
