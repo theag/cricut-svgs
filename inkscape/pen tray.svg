@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="pen tray.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.103275"
+     inkscape:cx="466.33887"
+     inkscape:cy="371.16767"
+     inkscape:window-width="2160"
+     inkscape:window-height="1346"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="opacity:0.998;fill:#8c8c8a;stroke:none;stroke-width:0.499999;stroke-linecap:round"
+       d="M 61.677889 8.3090535 L 61.677889 23.308655 L 61.677889 38.308773 L 61.677889 53.308891 L 57.678133 43.308984 L 50.678044 43.308984 L 46.677771 53.308891 L 31.67817 53.308891 L 31.67817 113.30885 L 35.677926 123.30875 L 42.678015 123.30875 L 46.677771 113.30885 L 61.677889 113.30885 L 61.677889 128.30896 L 61.677889 143.30908 L 61.677889 198.30883 L 221.67794 198.30883 L 221.67794 143.30908 L 221.67794 128.30896 L 221.67794 113.30885 L 225.67821 123.30875 L 232.67779 123.30875 L 236.67806 113.30885 L 251.67818 113.30885 L 251.67818 53.308891 L 247.67791 43.308984 L 240.67782 43.308984 L 236.67806 53.308891 L 221.67794 53.308891 L 221.67794 38.308773 L 221.67794 23.308655 L 221.67794 8.3090535 L 61.677889 8.3090535 z " />
+    <path
+       id="path10"
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 221.67798,23.308872 H 61.677978 m 0,15 H 221.67798 m 1e-5,105.000008 H 61.677988 m 0,-15 H 221.67799 m -3e-5,-15.00001 h 15.00001 l -10e-6,-60.000002 15,-5e-6 M 31.677991,113.30887 H 46.677979 V 53.308871 h 14.999999 m 10e-7,10e-7 H 221.67798 V 113.30887 H 61.677979 Z" />
+  </g>
+</svg>

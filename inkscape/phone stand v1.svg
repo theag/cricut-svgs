@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="phone stand v1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3455497"
+     inkscape:cx="547.35993"
+     inkscape:cy="448.14397"
+     inkscape:window-width="2160"
+     inkscape:window-height="1346"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="opacity:0.998;fill:#00caca;stroke-width:0.499999;stroke-linecap:round"
+       d="M 47.005833,23.095877 H 257.00583 V 171.09588 H 47.005833 Z"
+       sodipodi:insensitive="true" />
+    <path
+       id="path19"
+       style="opacity:0.998;fill:none;stroke:#ff0000;stroke-width:0.499999;stroke-linecap:round;stroke-opacity:1"
+       d="m 78.005833,159.09588 30.999997,-31 m 117,31 -31,-31 M 78.039451,97.06226 226.08806,97.01365 m -74.08223,31.08223 -73.999997,31 v 12 m 73.999997,-43 74,31 v 12 m -147.999997,-12 H 226.00583 m -74,-31 -105,-44.054205 m 105,44.054205 105,-44.054208 M 78.005831,97.09588 47.005832,23.095877 m 178.999998,74.000003 31,-74.000003 M 90.005833,171.09588 l -42.999998,-43 H 257.00583 m 0,0 -43,43 m 43,-43 -105,-105.000003 L 47.005835,128.09588 M 152.00583,23.095877 V 171.09588" />
+  </g>
+</svg>
