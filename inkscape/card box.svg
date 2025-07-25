@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11.5in"
+   height="11.5in"
+   viewBox="0 0 292.1 292.1"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="card box.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70110129"
+     inkscape:cx="621.16559"
+     inkscape:cy="421.47975"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="fill:#dedede;stroke:none;stroke-width:0.264583"
+       d="M 145.2578 32.017167 L 142.75769 47.017285 L 142.75769 92.017122 L 141.75776 92.017122 L 141.75776 90.017244 L 139.25765 60.017008 L 103.25778 60.017008 L 98.757796 90.017244 L 98.757796 92.017122 L 97.757857 92.017122 L 70.257727 92.017122 A 7.5 7.5 0 0 1 66.507568 98.512333 A 7.5 7.5 0 0 1 59.007768 98.512333 A 7.5 7.5 0 0 1 55.257609 92.017122 L 27.757996 92.017122 L 27.757996 187.01701 L 27.757996 232.01685 L 30.257585 247.01696 L 95.257751 247.01696 L 97.757857 232.01685 L 97.757857 187.01701 L 98.757796 187.01701 L 98.757796 189.01689 L 101.2579 219.01712 L 137.25777 219.01712 L 141.75776 189.01689 L 141.75776 187.01701 L 142.75769 187.01701 L 212.75756 187.01701 L 213.7575 187.01701 L 213.7575 189.01689 L 218.258 219.01712 L 254.25787 219.01712 L 256.75797 189.01689 L 256.75797 187.01701 L 257.75791 187.01701 L 272.75751 184.5169 L 272.75751 94.517228 L 257.75791 92.017122 L 256.75797 92.017122 L 256.75797 90.017244 L 252.25799 60.017008 L 216.2576 60.017008 L 213.7575 90.017244 L 213.7575 92.017122 L 212.75756 92.017122 L 212.75756 47.017285 L 210.25797 32.017167 L 145.2578 32.017167 z " />
+    <g
+       id="g11">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583;stroke-opacity:1"
+         d="m 27.757765,187.01704 229.999995,1e-5 V 92.017055 l -159.000008,-1e-5"
+         id="path9" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583;stroke-opacity:1"
+         d="m 142.75777,47.017032 h 69.99999"
+         id="path10" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583;stroke-opacity:1"
+         d="m 27.757765,232.01704 h 70"
+         id="path11" />
+    </g>
+  </g>
+</svg>
